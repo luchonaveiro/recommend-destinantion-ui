@@ -38,14 +38,14 @@ app.layout = html.Div(
         html.Div(
             className="study-browser-banner row",
             children=[
-                html.H2(className="h2-title", children="Travel Recommender"),
+                html.H3(className="h3-title", children="Travel Recommender"),
                 # html.Div(
                 #     className="div-logo",
                 #     children=html.Img(
                 #         className="logo", src=app.get_asset_url("iunigo_blanco.png")
                 #     ),
                 # ),
-                html.H3(className="h3-title-mobile", children="Travel Recommender"),
+                #html.H3(className="h3-title-mobile", children="Travel Recommender"),
             ],
         ),
         # Body of the App
