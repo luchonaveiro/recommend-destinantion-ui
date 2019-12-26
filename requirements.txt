@@ -1,0 +1,10 @@
+pandas
+numpy
+flask
+uwsgi
+requests
+dash
+plotly
+dash-core-components
+gunicorn
+dash-html-components
